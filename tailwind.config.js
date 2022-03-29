@@ -1,12 +1,9 @@
 module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       animation: {
-        scroller:
-          " scroller 1.5s linear infinite",
+        scroller: " scroller 1.5s linear infinite",
       },
       keyframes: {
         scroller: {
