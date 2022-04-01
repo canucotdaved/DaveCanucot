@@ -10,7 +10,7 @@ const Hero = () => {
         backgroundImage: `url(${hero})`,
       }}
     >
-      <div className="flex flex-col max-w-[1640px] justify-center h-full mx-auto my-0 px-[40px]">
+      <div className="flex flex-col max-w-[1440px] justify-center h-full mx-auto my-0 px-5 relative">
         {/* <img src={name} className="w-1/4" alt="hero logo" /> */}
         <HeroLogo />
       </div>

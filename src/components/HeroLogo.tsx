@@ -82,7 +82,7 @@ const HeroLogo = () => {
 
       <motion.h2
         variants={h2Variants}
-        className="font-semibold text-2xl text-white py-3"
+        className="font-semibold text-2xl text-white py-3 font-Spartan"
       >
         Engineer + Front-end Developer
       </motion.h2>
